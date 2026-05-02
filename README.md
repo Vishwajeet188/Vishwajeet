@@ -46,9 +46,9 @@ Cyber Security Enthusiast 🛡️ | Full Stack Developer 💻
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwajeet188&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishwajeet188&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishwajeet188&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishwajeet188&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
