@@ -12,12 +12,6 @@ Cyber Security Enthusiast 🛡️ | Full Stack Developer 💻
 
 ---
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Vishwajeet188&label=Profile%20views&color=0e75b6&style=flat"/> 
-</p>
-
----
-
 <p align="center">
 <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
@@ -57,20 +51,4 @@ Cyber Security Enthusiast 🛡️ | Full Stack Developer 💻
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishwajeet188&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajeet188&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
